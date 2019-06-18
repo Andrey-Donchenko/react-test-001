@@ -1,0 +1,13 @@
+.toast {
+  position: fixed;
+  margin: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.toast .toast-body {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}

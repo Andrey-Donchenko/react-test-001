@@ -1,0 +1,21 @@
+.task-list {
+  padding: 50px 30px;
+}
+
+.task-list > button {
+  margin-bottom: 30px;
+}
+
+.task-list thead th.sort,
+.task-list .action-col {
+  cursor: pointer;
+}
+
+.task-list > .ext-center {
+  text-align: center;
+}
+
+.task-list > .pagination {
+  display: flex;
+  justify-content: center;
+}
